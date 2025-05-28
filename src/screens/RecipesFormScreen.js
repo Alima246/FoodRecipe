@@ -1,4 +1,3 @@
-
 import { View, Text, TextInput, TouchableOpacity, Image, StyleSheet } from "react-native";
 import React, { useState } from "react";
 import AsyncStorage from "@react-native-async-storage/async-storage";
